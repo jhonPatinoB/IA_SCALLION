@@ -1,0 +1,164 @@
+{
+    "frío": {
+      "seco": {
+        "Color_hojas": "verdes descoloridas",
+        "Color_tallo": "amarillo",
+        "Tamaño": "pequeñas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño",
+          "2": "segundo mes de cultivo pequeño/mediano",
+          "3": "tercer mes de cultivo mediano",
+          "4": "cuarto mes de cultivo mediano",
+          "5": "quinto mes de cultivo mediano/grande",
+          "6": "utimo mes de cultivo mediano/grande"
+        }
+      },
+      "húmedo": {
+        "Color_hojas": "verdes brillantes",
+        "Color_tallo": "amarillo",
+        "Tamaño": "grandes",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño",
+          "2": "segundo mes de cultivo pequeño/mediano",
+          "3": "tercer mes de cultivo mediano",
+          "4": "cuarto mes de cultivo mediano/grande",
+          "5": "quinto mes de cultivo grande",
+          "6": "utimo mes de cultivo muy grande"
+        }
+      },
+      "rocoso": {
+        "Color_hojas": "verdes descoloridas",
+        "Color_tallo": "amarillo",
+        "Tamaño": "pequeñas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño",
+          "2": "segundo mes de cultivo pequeño/mediano",
+          "3": "tercer mes de cultivo mediano",
+          "4": "cuarto mes de cultivo mediano",
+          "5": "quinto mes de cultivo mediano/grande",
+          "6": "utimo mes de cultivo mediano/grande"
+        }
+      },
+      "arenoso": {
+        "Color_hojas": "verdes descoloridas",
+        "Color_tallo": "amarillo",
+        "Tamaño": "pequeñas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño",
+          "2": "segundo mes de cultivo pequeño/mediano",
+          "3": "tercer mes de cultivo mediano",
+          "4": "cuarto mes de cultivo mediano",
+          "5": "quinto mes de cultivo mediano/grande",
+          "6": "utimo mes de cultivo mediano/grande"
+        }
+      }
+    },
+    "templado": {
+      "seco": {
+        "Color_hojas": "verdes descoloridas",
+        "Color_tallo": "blanco",
+        "Tamaño": "pequeñas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño",
+          "2": "segundo mes de cultivo pequeño/mediano",
+          "3": "tercer mes de cultivo pequeño/mediano",
+          "4": "cuarto mes de cultivo mediano",
+          "5": "quinto mes de cultivo mediano",
+          "6": "utimo mes de cultivo mediano"
+        }
+      },
+      "húmedo": {
+        "Color_hojas": "verdes brillantes",
+        "Color_tallo": "blanco",
+        "Tamaño": "grandes",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño",
+          "2": "segundo mes de cultivo pequeño/mediano",
+          "3": "tercer mes de cultivo mediano/grande",
+          "4": "cuarto mes de cultivo mediano/grande",
+          "5": "quinto mes de cultivo grande",
+          "6": "utimo mes de cultivo muy grande"
+        }
+      },
+      "rocoso": {
+        "Color_hojas": "verdes claras",
+        "Color_tallo": "blanco",
+        "Tamaño": "largas y delgadas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño y flexible",
+          "2": "segundo mes de cultivo pequeño/mediano y flexible",
+          "3": "tercer mes de cultivo mediano y flexible",
+          "4": "cuarto mes de cultivo mediano/grande y flexible",
+          "5": "quinto mes de cultivo largo y y flexible",
+          "6": "utimo mes de cultivo largo y y flexible"
+        }
+      },
+      "arenoso": {
+        "Color_hojas": "verdes claras",
+        "Color_tallo": "blanco",
+        "Tamaño": "largas y delgadas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño y flexible",
+          "2": "segundo mes de cultivo pequeño/mediano y flexible",
+          "3": "tercer mes de cultivo mediano y flexible",
+          "4": "cuarto mes de cultivo mediano/grande y flexible",
+          "5": "quinto mes de cultivo largo y y flexible",
+          "6": "utimo mes de cultivo largo y y flexible"
+        }
+      }
+    },
+    "cálido": {
+      "Terreno seco": {
+        "Color_hojas": "amarillentas",
+        "Color_tallo": "amarillo",
+        "Tamaño": "cortas y gruesas",
+        "Mes": {
+          "1": "primer mes de cultivo corto y retorcido",
+          "2": "segundo mes de cultivo pequeño/mediano y retorcido",
+          "3": "tercer mes de cultivo mediano y retorcido",
+          "4": "cuarto mes de cultivo mediano y retorcido",
+          "5": "quinto mes de cultivo mediano/grande y retorcido",
+          "6": "utimo mes de cultivo mediano/grande y retorcido"
+        }
+      },
+      "húmedo": {
+        "Color_hojas": "verdes brillantes",
+        "Color_tallo": "morado",
+        "Tamaño": "largas y delgadas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño y curvo",
+          "2": "segundo mes de cultivo pequeño/mediano y curvo",
+          "3": "tercer mes de cultivo mediano y curvo",
+          "4": "cuarto mes de cultivo mediano/grande y curvo",
+          "5": "quinto mes de cultivo largo y curvo",
+          "6": "utimo mes de cultivo largo y curvo"
+        }
+      },
+      "rocoso": {
+        "Color_hojas": "verdes oscuras",
+        "Color_tallo": "amarillo",
+        "Tamaño": "cortas y gruesas",
+        "Mes": {
+          "1": "primer mes de cultivo corto y retorcido",
+          "2": "segundo mes de cultivo pequeño/mediano y retorcido",
+          "3": "tercer mes de cultivo mediano y retorcido",
+          "4": "cuarto mes de cultivo mediano y retorcido",
+          "5": "quinto mes de cultivo mediano/grande y retorcido",
+          "6": "utimo mes de cultivo mediano/grande y retorcido"
+        }
+      },
+      "arenoso": {
+        "Color_hojas": "verdes brillantes",
+        "Color_tallo": "amarillo",
+        "Tamaño": "largas y delgadas",
+        "Mes": {
+          "1": "primer mes de cultivo pequeño y curvo",
+          "2": "segundo mes de cultivo pequeño/mediano y curvo",
+          "3": "tercer mes de cultivo mediano y curvo",
+          "4": "cuarto mes de cultivo mediano/grande y curvo",
+          "5": "quinto mes de cultivo largo y curvo",
+          "6": "utimo mes de cultivo largo y curvo"
+        }
+      }
+    }
+  }  
